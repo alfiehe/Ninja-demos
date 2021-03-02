@@ -1,0 +1,6 @@
+#results .pass {
+  color: green;
+}
+#results .fail {
+  color: red;
+}
